@@ -1,0 +1,50 @@
+Los coches sin conductor logran avances notables en carreteras europeas lejos de los focos
+
+Las tecnologías de conducción automatizada avanzan con paso firme y prometen reducir los accidentes de circulación, pero la conducción totalmente independiente aún queda lejos
+
+Es un día cualquiera en la ciudad alemana de Hamburgo. Un sinfín de vehículos circulan por las calles, mientras los peatones se agrupan en los semáforos. Entre todo el ajetreo, un vehículo atraviesa el tráfico sin que quien lo conduce esté agarrando el volante con las manos o pisando los pedales con los pies.
+
+No se trata de una peligrosa acrobacia, sino de las últimas pruebas de la tecnología diseñada por el proyecto L3Pilot, financiado por la Unión Europea. El equipo de investigación de dicho proyecto ha desarrollado y sometido a ensayo un sistema electrónico para la conducción autónoma de automóviles en calles urbanas y autovías.
+
+“Es esencial probar los vehículos automatizados en condiciones reales”, afirma Aria Etemad, el coordinador de L3Pilot e investigador del fabricante automovilístico alemán Volkswagen. “No basta con hacerlos circular por entornos artificiales. Tenemos que comprobar que pueden hacer frente a la complejidad y a los imprevistos del tráfico real”.
+
+Los vehículos autónomos han sido objeto de un gran despliegue mediático en los últimos años. Empresas de tecnología estadounidenses como Google y Uber han invertido miles de millones en investigación buscando hacer realidad una visión que parece sacada de la ciencia ficción: gente que viaja en automóviles sin conductores humanos.
+
+Estas aspiraciones, no obstante, se han visto interrumpidas en ciertas ocasiones: el diseño de los coches autónomos ha resultado ser más complejo de lo previsto. Incluso se han llegado a producir situaciones dramáticas, como la muerte de una mujer estadounidense en 2018 después de que un vehículo autónomo de prueba, propiedad de Uber, chocara contra ella.
+
+Más allá de esto, grupos de investigación como el de Etemad, alejados de la atención pública, están logrando avances muy significativos. En los próximos años, es probable que las calles y carreteras europeas estén más y más transitadas por vehículos con mayor grado de autonomía. Con ello se espera contribuir a que la UE alcance el objetivo de reducir los accidentes de circulación desde los 19.900 registrados el año pasado a cero para 2050. La cifra de 2021 aumentó un 6 % con respecto a la de 2020. Si el 30 % de los vehículos que circulan por las carreteras usase tecnología de conducción automatizada, los accidentes de circulación se reducirían en casi un 15 %, según las previsiones de L3Pilot.
+
+Asimismo, los coches automatizados encierran la promesa de reducir los atascos de tráfico (al incrementar la eficiencia del transporte) y el estrés que ocasiona la conducción. “Necesitamos un poco más de tiempo”, precisa Etemad, ahora coordinador de un proyecto europeo de seguimiento llamado Hi-Drive. “Pero en un futuro cercano, cada vez más vehículos estarán equipados con tecnología de conducción automatizada”, sostiene.
+
+El proceso global será de carácter evolutivo. Los niveles de automatización variarán en función del modelo de coche y de las distintas etapas del proceso. Según una clasificación común del sector, existen seis niveles de autonomía automovilística. El nivel cero corresponde a un vehículo estándar no automatizado y el nivel cinco, a una automatización completa: un vehículo que puede circular por sí mismo en todas las circunstancias posibles.
+
+El nivel uno y dos ya son una realidad a día de hoy. Según Etemad, el primero ofrece un sistema de control de crucero adaptativo y el segundo comprende, además, un sistema de asistencia en atascos.
+
+Algunos de los coches actuales ya giran y frenan por sí mismos en condiciones de tráfico relativamente sencillas, como en autovías o atascos.
+
+En algunos casos, los conductores incluso pueden retirar las manos del volante y los pies de los pedales mientras siguen manteniendo el control principal (y tienen que estar preparados en todo momento para recuperar el control del vehículo). Los datos recogidos por los sensores y las cámaras acoplados al vehículo se introducen en un sistema de software que, para tomar las decisiones de conducción, recurre con frecuencia a la inteligencia artificial.
+
+Actualmente, los fabricantes de coches están inmersos en la tarea de hacer realidad el nivel tres de autonomía. “El nivel tres es como el dos, con el añadido de que permite a quien conduce realizar actividades paralelas”, explica Etemad y añade: “Ver un vídeo, por ejemplo. Únicamente cuando el sistema lo solicite, tendría que retomar el control del vehículo”.
+
+David Ertl, de la Oficina europea de la Federación Automovilística Internacional (FIA), declara que los mismos conductores aportan información sobre su grado de entusiasmo y escepticismo en torno de la idea en general, lo cual aumenta el valor de la investigación.
+
+“Los usuarios de automóviles podrían obtener claros beneficios, como una circulación más segura”, añade. “No obstante”, reconoce, “aún no se conoce con certeza cómo de segura es en realidad la conducción automatizada”. La FIA fue socia de L3Pilot y lo es también actualmente de Hi-Drive, donde representa los intereses de los conductores. La seguridad y la confianza dependen en última instancia no solo de la tecnología, sino también de facilitar a los conductores suficiente información sobre las funciones automatizadas. “En el futuro, la preparación que se impartirá en las autoescuelas deberá incluir formación sobre la conducción automatizada”, comenta Ertl.
+
+La transición del nivel dos al nivel tres es mayúscula. Los sistemas automatizados deben ser lo suficientemente seguros como para permitir a los conductores desviar la atención de la vía. Según Etemad, en las pruebas de L3Pilot, que se llevaron a cabo en siete países, incluidos Alemania, Italia y Suecia, participaron un total de 750 personas, que actuaron, bien como conductoras supervisando las maniobras, o bien como pasajeras. “Estas pruebas consistían en hacer circular un vehículo de forma autónoma, con una persona formada sentada en el asiento del conductor que podría asumir el control en caso necesario” añade Etemad.
+
+Las tecnologías de conducción automatizada actuales han demostrado adolecer de una serie de puntos ciegos. Por ejemplo, al acercarse a una zona en obras, un coche automatizado fue incapaz de decidir cómo actuar y derivó el control del vehículo al conductor. Dificultades como esta están siendo estudiadas en el proyecto Hi-Drive, que se ejecutará hasta mediados de 2025.
+
+“Estamos cooperando con propietarios de infraestructuras para conocer la localización de las zonas de obras y el aspecto que tienen”, señala Etemad. “Esta información es transferida al vehículo, que podrá prepararse mejor para hacerles frente”.
+
+Este tipo de situaciones imprevistas se encuentran entre los principales obstáculos para el desarrollo de vehículos autónomos. “Es el motivo por el que muchos fabricantes no están convencidos de lanzar estos sistemas al mercado”, indica Etemad. “Hay que pensar en todas las posibles situaciones en las que deberá manejarse el vehículo. Y eso no es fácil”.
+
+Para los niveles superiores de autonomía, aún habrá que esperar. “El nivel cuatro podría llegar al mercado en forma de taxis o autobuses-robots”, apuntó Etemad. “Su autonomía es muy alta, pero circulan a baja velocidad y en lugares claramente delimitados. Estoy bastante seguro de que a finales de la década podremos verlos en algunas áreas metropolitanas”.
+
+¿Y qué podemos esperar del quinto de nivel de automatización, el que implica que los vehículos circulen autónomamente por todas partes, desde estrechas carreteras secundarias a autovías, pasando por centros urbanos? ¿Es una quimera condenada a no abandonar el universo de la ciencia ficción? Etemad considera que lo es. En su opinión, el coste de la tecnología y de la infraestructura necesaria (como los sensores que informan al vehículo de las condiciones de la vía) sería prohibitivo en un futuro cercano.
+
+“Sencillamente, no es asequible”, expresó Etemad. “Con los conocimientos y la tecnología actuales, debemos centrarnos en los niveles tres y cuatro porque es ahí donde reside el potencial real”.
+
+La investigación descrita en este artículo ha sido financiada con fondos de la UE. Artículo publicado originalmente en Horizon, la Revista de Investigación e Innovación de la Unión Europea.
+
+Puedes seguir a EL PAÍS TECNOLOGÍA en Facebook y Twitter o apuntarte aquí para recibir nuestra newsletter semanal.
+

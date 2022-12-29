@@ -1,0 +1,56 @@
+Los mejores detectores de fugas de agua para el hogar
+
+Analizamos seis modelos de detectores de fuga de agua que avisan con una señal acústica o envían notificaciones al móvil en caso de que se produzca un escape
+
+Llegas a casa y de repente te encuentras con un gran charco de agua que proviene de la lavadora o de una tubería… Lo primero que haces es buscar la fuga, cerrar grifos y llamar al seguro antes de que el agua siga avanzando. Esta es una situación que suele pasar más de lo que nos gustaría y que provoca muchos quebraderos de cabeza tanto en hogares como en negocios. Para evitar estos sustos, los detectores de fuga de agua funcionan como un chivato que te avisa de una posible fuga de agua mediante una señal acústica o con notificaciones al teléfono móvil.
+
+Los detectores de fuga de agua son dispositivos capaces de captar las señales de una fuga de agua a través de un sistema de ultrasonidos. Éstos son representados mediante un sensor acústico y luminoso que no para hasta que no deja de identificar agua (o gotas) en el lugar. Se dividen en dos tipos: con o sin cable detector.
+
+Los primeros pueden ir conectados a la corriente eléctrica o funcionar con pilas y hay que colocar el cable en el lugar deseado (en este caso ofrecen la posibilidad de incluir cables alargadores para que llegue a más rincones); mientras que con los segundos es el propio aparato, que funciona únicamente con pilas, el que hay que situar al lado o cerca del electrodoméstico que puede perder agua (lavadora, congelador, caldera, fregadero…). También resultan útiles para colocarlos cerca de una ventana. ¿El objetivo? Detectar una posible entrada de agua en casa si se produce una lluvia torrencial, por ejemplo.
+
+La mayoría se sincronizan a la red wifi para conectarlos al smartphone y recibir notificaciones en caso de que no nos encontremos en casa, aunque también existen modelos más sencillos sin conexión a Internet.
+
+Para esta comparativa de detectores de fuga de agua hemos elegido diferentes modelos de distintos fabricantes: Bosch Smart Home (con una puntuación media de 6 puntos), DOMOS ‎DOM-SA-0 (7), Eve Water Guard (8), Grohe Sense Guard 22505LN1 (6,25), Honeywell home W1KS (8,5) y SEBSON ‎WD_GS153 (8,25). Todos ellos avisan a través de un sonido acústico de una fuga de agua aunque algunos pueden conectarse a una red Wi-FI para monitorizarlo desde el móvil y otros simplemente avisan. También ofrecen algunas funciones extra como la información de la temperatura y la humedad. Tras probarlos y analizarlos, se han tenido en cuenta los siguientes elementos:Los modelos seleccionados han sido utilizados durante un mínimo de 15 días y en diferentes partes de la casa en las que pueden ocurrir posibles fugas de agua, como la cocina o el baño principalmente. Así, el mejor detector de fuga de agua tras las pruebas realizadas es Honeywell home W1KS. Con cable detector y sirena de 100 decibelios incorporada, monitoriza fugas de agua, pero también la temperatura y la humedad del lugar donde esté colocado a través de la aplicación del dispositivo.
+
+Además de detectar posibles fugas de agua también es capaz de distinguir si hay tubos congelados que provoquen un posible problema con el agua. Posee un cable detector de 1,2 metros al que se le pueden añadir cables adicionales de la misma extensión (que se compran por separado) con los que cubrir áreas de hasta 150 metros.
+
+El dispositivo viene en una caja en la que también se incluyen tres pilas AA con una autonomía de un año (según el fabricante) y el cable detector. El aparato se sincroniza con la red wifi y se configura a través de su aplicación. Tras descargarse, hay que registrarse en la misma y en menos de 5 minutos el detector ya está listo para funcionar.
+
+Para probar su eficacia, echamos un poco de agua en el suelo de la cocina donde colocamos el equipo. Detecta la fuga de agua rápidamente, en menos de 10 segundos, emitiendo un sonido bastante fuerte (de unos 100 dB) que se oye a la perfección y que no para hasta que no abrimos la aplicación y revisamos la notificación. En la misma app también se muestran datos de temperatura y humedad, tomados tres veces al día.
+
+El detector de fuga de agua Honeywell home W1KS también funciona sin cable, poniendo el aparato donde queramos y sin necesidad de conectarse a Internet. En ese caso, tan solo emite el sonido modo alarma para avisarnos. Un aspecto positivo a destacar es que en la app también podemos indicar a quién avisar en caso de que no nos encontremos en casa y necesitemos que alguien se acerque para parar la fuga.
+
+No se sincroniza a través de wifi como el modelo ganador por lo que es una buena alternativa para aquellas personas que no hacen mucho uso del teléfono móvil. Sin cable detector y con un tamaño pequeño y compacto, tan solo hay que colocar el aparato (con dos sensores en la parte inferior que reconocen el agua) en la zona deseada y esperar a que suene el aviso acústico (de unos 85 dB).
+
+Con un alcance de un metro aproximadamente, el dispositivo cuenta con certificación IP65 para proteger el sistema interior de las fugas y funciona con una pila CR123A, que viene incluida y es de larga duración (según el fabricante puede durar hasta 10 años). En el momento de cambiar la pila, también avisa.
+
+El funcionamiento del detector de fuga de agua SEBSON ‎WD_GS153 es similar a los otros modelos: una vez que detecta agua, inmediatamente comienza a sonar la alarma, algo menos sonora que el modelo ganador, que no para hasta que no se retira del lugar. No se recomienda colocarlo en lugares que estén por debajo de los 4 grados y por encima de los 38.
+
+Con cable detector de 2 metros (y posibilidad de ampliarlo hasta 150 metros con cables alargadores), notifica en el móvil y a través de una sirena de 100 decibelios y una luz parpadeante de color rojo cuando se produce una fuga. Para ponerlo en funcionamiento hay que conectarlo a la corriente eléctrica (viene con varios adaptadores para distintas partes del mundo ya que es una marca alemana) además de tener que sincronizarlo a través de Bluetooth a HomeKit, la plataforma de domótica de Apple.
+
+Para que el detector de fuga de agua Eve Water Guard funcione correctamente tiene que estar relativamente cerca (unos 10 metros) de la central de Homekit que tengamos en casa (Apple TV, Homepod o iPad). Una vez realizados estos primeros pasos, tenemos que entrar en la app de Homekit y escanear el código que viene en la caja para añadir el accesorio.
+
+También podemos incluir el lugar o la habitación de la casa donde hemos colocado el dispositivo. Otro aspecto interesante es que mediante la app te avisa con una alarma muy suave para comprobar que el aparato está funcionando correctamente.
+
+Funciona por contacto con el agua (sin cable detector) y a pilas. También se sincroniza con red wifi y es su aplicación la que notifica alertas en cuanto detecta agua en el lugar donde está colocado. Para que funcione, primero hay que instalar la aplicación en el smartphone.
+
+Eso sí, hay que tener en cuenta una cuestión importante: las pilas no se colocan hasta que la app no se encuentra instalada. Tras este primer paso, se colocan las pilas y en la aplicación se añade el dispositivo.
+
+El detector de fuga de agua DOMOS ‎DOM-SA-0 avisa de una posible inundación o fuga solo a través de la aplicación, mediante cuatro modos: alerta (con sonido y notificación); campana (con sonido corto y notificación); silencio (solo notificación) y apagado (no se recibe ninguna notificación). También, a través de la app se notifican otras cuestiones: si el nivel de las pilas es bajo o si se ha perdido la conexión por algún motivo. En ese caso aparece un icono, una especie de admiración roja, que lo indica.
+
+De forma redondeada, el detector de fuga de agua Grohe Sense Guard 22505LN1 tampoco necesita cable detector ya que es el propio aparato el que cuenta con los sensores para identificar agua en la zona. Avisa tanto de peligro de inundación como de riesgo de heladas mediante sonido acústico y luz LED.
+
+Además de probarlo en el interior de casa, también lo utilizamos un día de lluvia y frío intenso, y avisa de ambos riesgos a la perfección. Se puede sincronizar con una red wifi y se configura a través de la aplicación del aparato. En ella se muestran alertas inmediatas y también actualizaciones diarias de la temperatura y humedad del lugar donde se encuentra el detector. Funciona con tres pilas AAA.
+
+Mediante la app se puede personalizar la configuración del aparato aunque pide muchos datos para el registro y, en algunas ocasiones, pierde la conexión con el dispositivo. En ese caso, la única solución es retirar las pilas del detector para reiniciarlo de nuevo.
+
+Compatible con Alexa y Google Home, para utilizar este detector de fugas de agua hay que contar con el dispositivo Smart Home Controller de Bosch. Avisa de forma inmediata en caso de fuga a través de un pitido relativamente fuerte, el parpadeo de unas luces que vienen integradas y a través de la aplicación del dispositivo.
+
+No viene con cable detector e incluso se puede recibir una imagen al smartphone en directo del lugar donde se está produciendo la fuga si se cuenta con cámara y está integrado en la central de Bosch.
+
+El detector de fuga de agua Bosch Smart Home funciona con pilas y en la parte inferior dispone de un revestimiento de silicona, eso hace que el aparato no resbale o se mueva cuando se está fregando el suelo o hay animales cerca (en caso de que se mueva involuntariamente de sitio, también avisa).
+
+*Todos los precios de compra incluidos en este artículo están actualizados a 25 de diciembre de 2022.
+
+[Recuerda que si eres usuario de Amazon Prime, todas las compras tienen gastos de envío gratuitos. Amazon ofrece un período de prueba gratuito y sin compromiso durante 30 días.]Puedes seguir a EL PAÍS ESCAPARATE en Facebook e Instagram, o suscribirte aquí a nuestra Newsletter.
+

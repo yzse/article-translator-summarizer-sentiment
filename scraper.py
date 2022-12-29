@@ -1,7 +1,7 @@
 import requests
 import lxml.html as html
 import os
-import datetime
+from datetime import date
 
 HOME_URL = 'https://www.elpais.com/'
 XPATH_LINK_TO_ARTICLE = '//h2[@class="c_t "]/a/@href'
@@ -18,15 +18,15 @@ def parse_notice(link, today):
 
             try:
                 title = parsed.xpath(XPATH_TITLE)[0].replace('\"', '')
-                sumary = parsed.xpath(XPATH_SUMMARY)[0]
+                summary = parsed.xpath(XPATH_SUMMARY)[0]
                 body = parsed.xpath(XPATH_BODY)
             except IndexError:
                 return
 
-            with open(f'{today}/{title}.txt', 'w', encoding='utf-8') as f:
+            with open(f'news-articles/{today}/{title}.txt', 'w', encoding='utf-8') as f:
                 f.write(title)
                 f.write('\n\n')
-                f.write(sumary)
+                f.write(summary)
                 f.write('\n\n')
 
                 paragraph = ''
@@ -41,7 +41,6 @@ def parse_notice(link, today):
     except ValueError as ve:
         print(ve)
 
-
 def parse_home():
     try:
         response = requests.get(HOME_URL)
@@ -50,9 +49,9 @@ def parse_home():
             parsed = html.fromstring(home)
             links_to_notices = parsed.xpath(XPATH_LINK_TO_ARTICLE)
             print(len(links_to_notices))
-            today = datetime.date.today().strftime('%m-%d-%Y')
-            if not os.path.isdir(today):
-                os.mkdir(today)
+            today = date.today().strftime('%m-%d-%Y')
+            if not os.path.isdir('news-articles/' + today):
+                os.mkdir('news-articles/' + today)
             for link in links_to_notices:
                 parse_notice(link, today)
         else:
