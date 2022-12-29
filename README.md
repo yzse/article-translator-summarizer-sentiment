@@ -1,4 +1,4 @@
-# news-translator-summarizer-sentiment
+# *News Article Translator, Summarizer, & Sentiment Analyzer*
 Scrapes, translates, summarizes, and analyzes sentiment from El País, one of the most circulated newspapers in Spain.
 
 **Contents**
