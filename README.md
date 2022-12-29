@@ -1,14 +1,14 @@
 # news-translator-summarizer-sentiment
-Scrapes, translates, summarizes, and analyzes sentiment from El País (Spain) using a Hugging Face translator, Google Pegasus, and BERT.
+Scrapes, translates, summarizes, and analyzes sentiment from El País, one of the most circulated newspapers in Spain.
 
 **Contents**
 - [Content](#content)
 - [Installation](#installation)
 
-## What is `lumpia`?
+## Content
 This project summarises Spanish news in English using an end-to-end pipelines:  run a scraper, translates from Spanish to English using `Helsinki-NLP`, summarizes using Google's `Pegasus-xsum`, and analyzes sentiment using `BERT`.
 
-## Run
+## Installation
 Install the latest version for a stable release.
 
 ```bash
