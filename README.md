@@ -22,6 +22,6 @@ python summarizer.py # runs summarizing pipeline
 The script outputs a .CSV file, along with the article's translation, summary, and sentiment analysis.  By default, the script analyses the top 5 headlines of the day.  See below for a sample format:
 
 
-  |date| title_es        | translation        | summary        | sentiment label      | sentiment score      |
-  |----|-----------------|--------------------|----------------|----------------------|----------------------|
+  |date      | title_es        | translation        | summary        | sentiment label      | sentiment score      |
+  |----------|-----------------|--------------------|----------------|----------------------|----------------------|
   |12-29-2022|Guerra entre Ucrania y Rusia: Últimas noticias en directo: Ucrania asegura haber derribado 54 de los 69 misiles del ataque ruso contra infraestructuras energéticas|Kiev, Járkov, Odessa and Yitomir record explosions causing at least three injuries in the capital  Belarus summons the Ukrainian ambassador and demands “exhaustive investigation” by the fall of a missile on its territory...|The BBC's Russia correspondent assesses the latest developments in the Ukraine-Belarus conflict.|NEU|0.9750946760177610|
