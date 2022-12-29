@@ -7,7 +7,7 @@ Scrapes, translates, summarizes, and analyzes sentiment from El País, one of th
 - [Sample Output](#sample-output)
 
 ## Content
-This project summarises Spanish news in English using an end-to-end pipeline:  runs a web scraper, translates from Spanish to English using `Helsinki-NLP`, summarizes using Google's `Pegasus-xsum`, and analyzes sentiment using `BERT`.
+This project summarises Spanish news in English using an end-to-end pipeline:  runs a web scraper, translates from Spanish to English using [Helsinki-NLP](https://huggingface.co/Helsinki-NLP), summarizes using Google's [pegasus-xsum](https://huggingface.co/google/pegasus-xsum), and analyzes sentiment using [BERT](https://huggingface.co/google/pegasus-xsum).
 
 ## Usage
 Install the latest version for a stable release.
