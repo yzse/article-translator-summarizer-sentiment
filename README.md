@@ -13,7 +13,6 @@ This project summarises Spanish news in English using an end-to-end pipeline:  r
 Install the latest version for a stable release.
 
 ```bash
-pip install -U git+https://github.com/yzse/es-news-translator-summarizer-sentiment
 python scraper.py # scrape primary data
 python summarizer.py # runs summarizing pipeline
 ```
