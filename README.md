@@ -18,7 +18,7 @@ python summarizer.py # runs summarizing pipeline
 ```
 
 ## Sample Output
-The script outputs a .CSV file, along with the article's translation, summary, and sentiment analysis.  By default, the script analyses the top *10* headlines of the day.  See below for a sample format, the translated text has been truncated for this markdown.
+The script outputs a .CSV file, along with the article's translation, summary, and sentiment analysis.  By default, the script analyses the top *10* headlines of the day.  See below for a sample format, the translated text has been truncated for this markdown.  You can find more outputs in [`outputs/`](https://github.com/yzse/article-translator-summarizer-sentiment/tree/main/outputs).
 
 
   |date      | title_es        | translation        | summary        | sentiment label      | sentiment score      |
