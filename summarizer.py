@@ -104,7 +104,7 @@ def create_output_array(numArticles: int):
     return output_csv
 
 def run():
-    create_output_array(5)
+    create_output_array(10)
 
 if __name__ == '__main__':
     run()
