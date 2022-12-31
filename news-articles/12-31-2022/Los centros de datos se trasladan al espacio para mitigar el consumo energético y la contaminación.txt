@@ -1,0 +1,44 @@
+Los centros de datos se trasladan al espacio para mitigar el consumo energético y la contaminación
+
+El aumento exponencial de la computación obliga a llevar fuera de la Tierra los complejos de procesamiento y almacenamiento
+
+A grandes problemas, soluciones extraordinarias. Es lo que ha pensado la Comisión Europea ante el incremento exponencial de la computación; su gasto energético, que se espera que alcance el 10% del consumo mundial; y la contaminación que genera, “el 4% de los gases de efecto invernadero producidos por la actividad humana, ligeramente superior a la industria aeroespacial global”, según la Escuela Superior de Tecnología de la Universidad de Quebec (Canadá). La UE ha seleccionado a Thales Alenia Space (67% Thales y 33% Leonardo) para estudiar la viabilidad del programa ASCEND (siglas en inglés para Nube Espacial Europea para Redes de Cero Emisiones y Soberanía de Datos). El objetivo, incluido en el programa de investigación Horizon Europe, es la instalación de centros de datos en órbita.
+
+“Las infraestructuras digitales en su conjunto representan una parte sustancial del consumo de energía en todo el mundo, con una considerable huella de carbono”, advierte Sammy Zoghlami, vicepresidente de la compañía Nutanix. Según sus datos, “solo en Europa, Oriente Próximo y África, los centros de datos consumen más de 90 Teravatios por hora al año, con un nivel de emisiones equivalente al que generan unos 5,9 millones de vehículos (27 millones de toneladas de CO₂)”.
+
+Algunas empresas afrontan este problema recurriendo a fuentes de energía libres de carbono. Es el caso de Google Cloud, que utilizará 149 megavatios de electricidad de origen solar procedente de un nuevo parque fotovoltaico situado en Toro (Zamora). Con este recurso aspira a que la región de Madrid y las oficinas en España puedan funcionar en tres años al 90% con este tipo de fuentes, como ya hacen las regiones de Finlandia, Iowa, Montreal, Oregón y Toronto. Amazon cuenta en su centro logístico de Sevilla con 13.300 paneles solares con capacidad para generar 5,26 megavatios, la mayor instalación de la compañía Europa.
+
+Pero no todas las empresas de datos tienen esta capacidad y la industria crece y demanda cada vez más. Ante esta realidad, el objetivo del proyecto ASCEND es demostrar la capacidad futura de los centros de datos en órbita para que, utilizando energía solar fuera de la atmósfera terrestre, se reduzca sustancialmente la huella de carbono de la digitalización.
+
+Yves Durand, es el director de tecnologías en Thales Alenia Space, el consorcio encargado de estudiar la viabilidad de estos centros de datos espaciales en el próximo año y medio con el objetivo de instalarlos en la primera mitad de la próxima década. Durand afirma que las iniciativas como la de Google no son suficientes: “La mayoría de los centros de datos en Europa utilizan ahora fuentes altamente carbonizadas. Estas infraestructuras son grandes consumidores de energía: entre el 2% y el 3% mundial ahora y creciendo el doble cada año. Llegarán a suponer el 10% del total global. No podemos producir tanta energía libre de carbono ante las tremendas demandas, a las que se sumarán, por ejemplo, los coches eléctricos o la producción de hidrógeno, ni podemos cubrir toda nuestra superficie de placas solares”.
+
+Sus cálculos prevén que en 2050 no se puedan cubrir todas las necesidades al ritmo actual de crecimiento de la demanda, por lo que llevar los centros de datos al espacio, según afirma, “parece una buena alternativa ante el gran problema de la energía y la huella de carbono”.
+
+El primer gran desafío es construir una instalación tan grande en el espacio. “Es la razón por la que hemos unido en un gran consorcio a los principales especialistas en infraestructura espaciales”, aclara. Este grupo lo conforman Carbone 4, VITO, Orange, CloudFerro, Hewlett Packard Enterprise, ArianeGroup, DLR, Airbus Defence and Space y Thales Alenia Space.
+
+“Hemos aunado a los mejores de cada clase”, afirma Durán, quien explica que entre los trabajos a realizar se encuentra optimizar la arquitectura espacial para encontrar el mejor modelo y a un coste asumible. Este, según el investigador, será “el equivalente al de construir una central nuclear”. La Sociedad Nuclear Española calcula que para estas instalaciones se precisan entre 4.000 y 5.000 millones de euros.
+
+El responsable de tecnología de Thales Alenia Space cree que es posible, como demuestra la existencia de la Estación Espacial Internacional, y que su construcción será “sin astronautas, completamente automática”. “De hecho, el proyecto implica ensamblaje especial con robótica”, añade. La base es diseñar un centro modular con paquetes electrónicos fáciles de llevar en una lanzadera reutilizable y ensamblables. La comunicación, a diferencia de las instalaciones terrestres, no dependerá de fibra, sino que utilizará tecnología óptica.
+
+Y solo con el ahorro energético en refrigeración, aprovechando las bajas temperaturas del espacio, se conseguirá evitar un enorme consumo. Una parte significativa del uso de energía de un centro de datos se destina a enfriar los equipos. En algunas instalaciones, esta partida supone más del 50%. En las órbitas de la Tierra, la temperatura puede llegar a los -180ºC en la sombra de nuestro planeta.
+
+El objetivo inicial de Ascend es demostrar que este proyecto tiene sentido, en especial, si se quiere alcanzar las emisiones neutras antes de 2050. Pero las implicaciones van más allá. Estos centros de computación orbitales son una herramienta fundamental en la próxima exploración espacial, con la posible instalación de bases lunares o la conquista de Marte.
+
+Con estas infraestructuras, ya no es necesario recopilar datos en el espacio, traerlos de vuelta y almacenarlos y analizarlos en la Tierra. “Y también algo muy importante”, añade Duran: “Podemos reaccionar mucho más rápido si tenemos capacidad de procesamiento en el espacio”. Una comunicación entre Marte y la Tierra tarda 40 minutos en ir y volver, por lo que la transmisión de una información crítica precisa de otro modelo.
+
+Otro de los grandes desafíos es la radiación, que afecta tanto a los componentes físicos del sistema como a la computación. Durand admite que es un asunto principal, pero explica que ya existe una gran experiencia con las constelaciones de satélites para telecomunicaciones.
+
+Ya están identificadas las aplicaciones que se podrían beneficiar de estos nuevos centros, como la computación con redes neuronales o los centros financieros, que precisan de una gran capacidad de procesamiento. También la computación cuántica, que requiere temperaturas extremadamente bajas y ausencia de vibración, algo que se puede conseguir en el espacio.
+
+Estos centros serán seguros, aunque la eventualidad de un ciberataque es siempre posible porque las tecnologías avanzan tanto para los usos adecuados como para los espurios. “Tendremos que imaginar protecciones que serán diferentes a las usadas en la Tierra”, aclara Duran.
+
+Los centros de datos en el espacio ya existen, aunque en unas proporciones muy diferentes a los previstos por la Comisión Europea. La Estación Espacial Internacional cuenta con el HPE Spaceborne Computer-2 (SBC-2), el primer sistema de computación en el espacio habilitado para IA que ya ha completado 24 experimentos de investigación.
+
+La Agencia Espacial Europea también ha lanzado el PhiSat-1, el primer satélite con procesamiento de IA a bordo que utiliza el chip Movidius Myriad 2 de Intel.
+
+Y no solo los centros de datos pueden ayudar a reducir la huella de carbono. Cualquier uso de la información obtenida desde el espacio puede ayudar a una sostenibilidad global. Según el Sustainable Business Studio de Globant para Inmarsat, empresa de comunicaciones móviles globales por satélite, el mundo podría adelantar en 10 años la descarbonización si las industrias aprovecharan al máximo las tecnologías espaciales existentes y emergentes. En este sentido, de acuerdo con Globant, la plena adopción de los sistemas disponibles permitiría lograr una reducción del 11,5% de las emisiones mundiales en 2030, sumando al 2.5% de ahorro actual un 9% de la incorporación de nuevos usos.
+
+Para Elena Morettini, científica principal del informe, “desde un punto de vista tecnológico y científico, la reducción potencial de las emisiones de CO₂ de las tecnologías satelitales es inmensa”. “Definitivamente”, añade, “no es la falta de innovación lo que impide un mayor éxito en la sostenibilidad, sino la falta de inversión lo que se interpone en el camino”.
+
+Según el informe, los datos aportados por los satélites permitirían una optimización significativa de las rutas de transporte, tanto de pasajeros como de mercancías, y una mayor eficacia en la detección de emisiones de metano.
+

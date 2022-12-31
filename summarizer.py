@@ -95,7 +95,7 @@ def create_output_array(numArticles: int):
         if any(x in file for x in to_remove):
             os.remove(file)
     
-    # pull top 5 headlines of the day
+    # pull top 10 headlines of the day
     files = list(filter(os.path.isfile, glob.glob(search_dir + '*')))
     files.sort(key=lambda x: os.path.getmtime(x))
     latest_files = files[:numArticles]
@@ -104,7 +104,7 @@ def create_output_array(numArticles: int):
     return output_csv
 
 def run():
-    create_output_array(5)
+    create_output_array(10)
 
 if __name__ == '__main__':
     run()
