@@ -1,0 +1,32 @@
+¿Va internet lento en casa? Así podrá aumentar la velocidad de conexión del ‘router’
+
+Estos trucos pueden ayudar a incrementar la velocidad de la conexión doméstica
+
+Un 96,1% de los hogares en España cuenta con conexión a internet de banda ancha, según datos de EPData, y son las personas más jóvenes (con edades entre los 16 y 24 años), los que hacen un uso más intensivo de esta conexión. En esta franja de edad hay mayor tendencia a utilizar consolas y disfrutar de contenido en plataformas en streaming, con lo que su consumo de datos es superior.
+
+Pero pocas experiencias resultan más frustrantes que intentar cargar una página en el navegador y ver que esta carga se eterniza, o bien que aparece directamente un mensaje de error en pantalla. ¿Cómo es posible, asumiendo que el ancho de banda contratado es generoso y con capacidad suficiente?El router emplea ondas de radio a corto alcance para transmitir, de forma inalámbrica, la conexión a internet que llega al domicilio. Como es evidente y conocido, su principal ventaja es que permite una conexión simultánea y sin necesidad de cables de varios dispositivos de distintos tipos (un móvil, el ordenador, un altavoz conectado). Su principal inconveniente es que la señal pierde potencia a medida que nos distanciamos del router.
+
+El wifi solo proporciona conectividad a corto alcance, por lo que el router y el dispositivo deben estar relativamente cerca para poder aproximarse a la velocidad teórica contratada. Pero hay más elementos que intervienen en la velocidad de conexión además de la distancia: interferencia de otros dispositivos, barreras físicas o la propia antigüedad del enrutador.
+
+Se trata de la medida más sencilla y efectiva: intentar ubicar el router en la posición más central de la casa, o cerca de los dispositivos que más se conecten y lo más elevado posible. Esto no es siempre posible, puesto que el dispositivo se suele conectar en el punto de entrada del cable de banda ancha en el domicilio, pero en la medida que sea factible, mejorará enormemente la calidad de la conexión.
+
+“Lo ideal es que esté en el lugar donde más se utiliza, por ejemplo, en el salón”, explican a EL PAÍS desde el fabricante AVM, que ofrece también otro valioso consejo, “asegurarse de que el router no esté escondido en un armario” o en un cajón, ya que se dificulta la calidad de la señal en los puntos más lejanos.
+
+Si se ha visto en la situación de tener que ponerse en contacto con su operador al tener problemas en la conexión a internet, una de las primeras medidas que le sugerirán desde el soporte consiste en apagar y encender todo. Piense en el router como un ordenador al que, de cuando en cuando, le viene bien reiniciarse para eliminar posibles errores y resolver problemas de funcionamiento.
+
+Aunque no es una solución genérica a los problemas de conexión inalámbrica, sí puede resolver casos puntuales, aunque, eso sí, los expertos recomiendan esperar diez segundos antes de volver a encender un router que se ha apagado. Y por descontado, incorporar en este ciclo de apagado y encendido al módem.
+
+El caudal del wifi es como una autopista que se satura si concentra mucho tráfico en un momento dado. En este sentido, cuando hay muchos dispositivos conectados de forma simultánea, puede resentirse la velocidad y la calidad de conexión. Los ‘routers’ de banda dual —aquellos que incorporan las bandas 2,4 y 5 GHz— permiten derivar el tráfico a la banda más alta en los dispositivos que más demanda tengan (como un ordenador o un tablet).
+
+Una de las principales ventajas de la banda de 5 GHz es que cuenta con menos interferencias, fundamentalmente porque hay menos dispositivos que la ocupan. Por otro lado, la banda de 5 GHz tiene un mayor caudal disponible, con lo que puede soportar un mayor tráfico de datos. En paralelo al uso de dos bandas, otro consejo que siempre dan los fabricantes consiste en asegurarse que se está utilizando siempre la última versión del firmware del router, no solo por una cuestión de optimización de su funcionamiento, sino sobre todo de seguridad.
+
+En ocasiones, todas las soluciones propuestas hasta ahora puede que no consigan ampliar la calidad de la conexión inalámbrica, sobre todo si la vivienda es grande o con muchas paredes u obstáculos. Si esto es así, lo más recomendable es instalar una red en malla (también conocida como mesh).
+
+Esta red parte de una estación base que sustituye al router y se conecta directamente al módem, junto a una o varias estaciones (o repetidores) remotas. La ventaja de esta infraestructura inalámbrica reside en que la conexión wifi se administra de manera inteligente, en función de varios factores (distancia, dispositivos conectados, calidad de la señal…), logrando que la conexión sea más estable.
+
+Siempre que sea posible, e idealmente en una casa recién reformada, es recomendable ubicar tomas de red Ethernet en aquellos lugares donde vaya a haber un dispositivo conectado permanentemente. Por ejemplo, en un televisor, videoconsola u bien en un ordenador de sobremesa.
+
+Esta conexión, además de ser mucho más rápida al carecer de pérdidas, es más estable y no depende de los dispositivos que se conecten inalámbricamente. La ventaja colateral de conectar por cable varios dispositivos en casa es que reduce el número de equipos conectados al wifi y, de esta manera, mitiga las posibles saturaciones en la conexión inalámbrica.
+
+Puedes seguir a EL PAÍS TECNOLOGÍA en Facebook y Twitter o apuntarte aquí para recibir nuestra newsletter semanal.
+
