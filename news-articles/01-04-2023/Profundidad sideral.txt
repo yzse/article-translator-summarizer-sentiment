@@ -1,0 +1,8 @@
+Profundidad sideral
+
+El programa Stockfish tumba al revolucionario AlphaZero con ideas tan inhumanas como bellas y eficaces, que confirman el inicio de una manera distinta de entender la alta estrategia del ajedrez
+
+Hay varios campeones en la historia que han marcado un hito, han aportado un modo distinto de entender el ajedrez: Mijaíl Botvínik profesionalizó el entrenamiento concienzudo; Bobby Fischer rompió principios y añadió otros, sobre todo en el juego de ataque; Gari Kaspárov llevó hasta el virtuosismo la preparación de las aperturas, además de la gran frescura de su juego ofensivo; Magnus Carlsen aplica al juego humano el progreso de las máquinas; son cuatro ejemplos muy claros de una lista muy larga.
+
+El noruego, actual campeón del mundo, ha sido muy influido, positivamente, por monstruos de silicio como AlphaZero, Stockfish o Leela, como él mismo ha reconocido, y así se vio en su juego desde enero de 2019. Si las ideas que Stockfish aplica en la partida de este vídeo sorprendieron incluso al campeón del mundo, prepárese el lector para sensaciones muy fuertes cuando la vea. Las enseñanzas y el disfrute de las partidas de Botvínik, Fischer, Kaspárov y todos los demás campeones siguen teniendo plena vigencia, pero ninguno de ellos jugaba tan bien como Stockfish.
+

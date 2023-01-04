@@ -1,0 +1,48 @@
+Probamos los mejores amplificadores wifi de enchufe y elegimos el ganador por menos de 20 euros
+
+Estos dispositivos se conectan a través de una toma eléctrica y logran que la calidad y el alcance de la señal wifi de la vivienda mejoren de forma sencilla
+
+Para conectarse a Internet de forma inalámbrica dentro de una vivienda se necesita contar con un router wifi. Lo que suele suceder, sin embargo, es que la calidad que proporciona la señal de este dispositivo no siempre cumple con nuestras expectativas por diferentes motivos: la conexión es demasiado lenta, la calidad de la señal no es la misma según el sitio desde el que nos conectemos…Esta situación se soluciona a través de un amplificador wifi, un aparato que recibe también el nombre de extensor. Los que participan en esta comparativa funcionan conectándose a cualquier toma de electricidad de la vivienda para amplificar la señal de la red wifi del hogar. Ahora bien, al elegir su ubicación conviene barajar diferentes opciones porque, en función de su ubicación, recibirá mejor o peor la señal emitida por el router para luego expandirla.
+
+Los dispositivos seleccionados son: Devolo WiFi Repeater+ AC, D-Link DAP-1620, TP-Link TL-WA850RE y Xiaomi Mi Wi-Fi Range Extender Pro. En sus análisis se han valorado estos aspectos:Para la realización de las pruebas en una vivienda de unos 120 metros cuadrados dividida en dos plantas, se ha dedicado al menos una semana a cada modelo. Esto ha permitido comprobar y comparar entre sí no solo el proceso de configuración y puesta en marcha del dispositivo, también el alcance y la calidad de su señal.
+
+El amplificador Wi-Fi por enchufe TP-Link TL-WA850RE ha obtenido la valoración más alta. Aunque solo puede utilizarse en la banda de los 2,4 GHz, garantiza un alto rendimiento, por lo que su cobertura y calidad es la mejor. Además, tiene un diseño elegante y la calidad de su fabricación destaca sobre el resto.
+
+Con unas dimensiones de 110 x 65,8 x 75,2 mm, posee un diseño elegante para un dispositivo de este tipo. En color blanco, en la esquina inferior derecha incorpora un indicador LED en azul: posee la forma de un anillo e informa acerca del nivel de intensidad de la señal que el extensor recibe del router de la vivienda; en este caso, el fabricante recomienda que al menos tres de sus cinco indicadores estén activos.
+
+Su emparejamiento y configuración destaca por su sencillez y rapidez gracias a su compatibilidad con los routers WPS, aunque se podría utilizar también con aquellos que no lo son. Como el utilizado en las pruebas sí lo es, fue suficiente con pulsar su botón WPS y, a continuación, hacer clic en el botón range extender del amplificador que se encuentra dentro del anillo indicador LED antes citado.
+
+Provisto de dos antenas internas y con una velocidad máxima de 300 Mbps, opera únicamente en la banda de los 2,4 GHz. Tanto su alcance como potencia consiguen buenos resultados. Mientras, en su parte inferior, al lado del botón Reset, tiene un puerto Ethernet para conectarlo a otros dispositivos a través de cable como un ordenador o una tableta.
+
+El amplificador wifi de enchufe TP-Link TL-WA850RE puede, por otro lado, configurarse y controlarse a través de la app Tether que es compatible con Android e iOS: por ejemplo, es posible activar el ‘Modo Nocturno’ para apagar sus indicadores LED durante la noche o consultar información de interés para encontrar el mejor lugar donde colocarlo.
+
+Al igual que el modelo de Xiaomi, sus dos antenas son externas y abatibles. Además, a nivel de diseño comparte, en este caso con el dispositivo TP-Link TL-WA850RE, otra característica importante y útil: se trata de un indicador de intensidad que mediante unas luces LED informa acerca de la calidad de la señal wifi que capta para luego amplificarla.
+
+El amplificador wifi de enchufe Link DAP-1620 ofrece, por otro lado, la ventaja de utilizarlo tanto en la banda de los 2,4 GHz como de los 5 GHz gracias a su compatibilidad con la tecnología Wi-Fi AC, pudiendo alcanzar velocidades teóricas de hasta 1.300 Mbps.
+
+Su rendimiento es positivo y durante las pruebas ha respondido perfectamente, tanto al configurarlo a través del botón WPS del router con el que se han hecho las pruebas como mediante la app D-Link WiFi, que puede utilizarse tanto en dispositivos móviles Android como iOS.
+
+Otros datos de interés son: acceso Wi-Fi protegido (WPA/WPA2) y WPS (PBC), y opción de utilizarlo como punto de acceso cableado a través de su puerto Ethernet.
+
+Wifi de doble banda (2,4 GHz y 5 Ghz) gracias a su funcionalidad Crossband Repeating, integración de dos puertos LAN Gigabit, velocidad combinada de transferencia de hasta 1.200 Mbps, seguridad incorporada (WPA, WPA2 y WPA3)...Estas son algunas de las características disponibles en la propuesta de la marca Devolo que, al igual que otros modelos de su clase, funciona como punto de acceso también, que es lo que sucede con los dispositivos de D-Link y TP-Link.
+
+Al tener un diseño discreto pasa bastante desapercibido. Mientras, su tamaño y peso facilitan, como era de prever, que pueda trasladarse a cualquier toma eléctrica de la vivienda cómodamente. Su instalación no reviste de especial dificultad porque enlaza al router de casa a través del botón WPS que incorporan estos dispositivos.
+
+No obstante, hubo un par de ocasiones en las que esta conexión se perdió y hubo que reiniciarla de nuevo: esto se sabe porque el botón LED que se corresponde con la red doméstica (está ubicado en la parte central) se ilumina en rojo y no en blanco que es lo normal.
+
+Los usuarios pueden, por otro lado, completar esta configuración de manualmente a través de la aplicación devolo Home Network que admite tanto dispositivos móviles Android como iOS. Las indicaciones que facilita su asistente (tanto las escritas como visuales) son sencillas, por lo que siguiendo los pasos indicados no hay ningún problema.
+
+La experiencia con el amplificador wifi de enchufe Devolo Repeater+AC es buena, aunque en ocasiones puntuales se percibe que tanto la estabilidad de la conexión como la velocidad de transmisión podían dar más de sí.
+
+Tiene un diseño que parece de juguete y unas dimensiones de tan solo 80 x 70 x 54 mm. Con una carta de presentación así podría pasar desapercibido, pero lo cierto es que no porque es de color negro. Mientras, y a diferencia de sus oponentes, únicamente se puede configurar a través de una aplicación móvil. En este caso, la app es Xiaomi Mi Home. Se necesita crear una cuenta de usuario y seguir los pasos.
+
+Para emparejarlo con el router de casa se puede hacer a través de Bluetooth o marcando el propio dispositivo de una lista que se muestra. Es muy importante, en cualquier caso, que el repetidor se encuentre lo más próximo al router para que el proceso se complete con éxito, porque de lo contrario hay que repetirlo.
+
+Se sabe que todo está correcto porque la luz indicadora situada en la parte inferior central del amplificador (se representa mediante un pequeño punto) pasa de amarillo intermitente a azul fijo. La usabilidad y manejabilidad de esta aplicación, al igual que las otras, es sencilla y enseguida te habitúas a ella aun no habiendo utilizado una app de este tipo antes.
+
+Si queremos modificar tanto el nombre como la contraseña del repetidor podemos hacerlo. A pesar de su reducido tamaño, el trabajo que realizan sus dos antenas externas es bueno en líneas generales, tanto por el alcance de la señal como su estabilidad. Eso sí, el amplificador wifi de enchufe Xiaomi Mi Wi-fi Range Extender Pro solo opera en la banda de los 2,4 GHz.
+
+*Todos los precios de compra incluidos en este artículo están actualizados a 4 de enero de 2023.
+
+[Recuerda que si eres usuario de Amazon Prime, todas las compras tienen gastos de envío gratuitos. Amazon ofrece un período de prueba gratuito y sin compromiso durante 30 días.]Puedes seguir a EL PAÍS ESCAPARATE en Facebook e Instagram, o suscribirte aquí a nuestra Newsletter.
+
