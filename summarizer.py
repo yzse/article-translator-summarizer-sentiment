@@ -61,6 +61,8 @@ def run_pipeline(latest_files, numArticles):
 
         print('{:%H:%M} summarizing...'.format(datetime.now()))
         summarized = summarize(translated)[0]
+        if len(summarized) > 80:
+            summarized = summarize(summarized)[0]
 
         print('{:%H:%M} scoring...'.format(datetime.now()))
         score = get_sentiment(summarized)
